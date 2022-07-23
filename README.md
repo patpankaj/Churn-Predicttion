@@ -1,4 +1,7 @@
 # Churn-Predicttion
+ This resportry contains the chrun pridcition of customer in which we pridict  which customers are likely to leave a service or to cancel a subscription to a service.
+
+
 
 ## Problem Statement
 This Dataset belongs to a Machine Learning Challenge hosted at Hacker Earth.
