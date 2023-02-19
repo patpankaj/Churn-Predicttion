@@ -25,7 +25,7 @@ test.csv: 19919 x 24
 sample_submission.csv: 5 x 2
 The columns provided in the dataset are as follows:
 
-Column name Description
+Column name and  Description of columns
 
 customerid-Represents the unique identification number of a 
 customer Name -Represents the name of a customer 
